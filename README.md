@@ -42,7 +42,6 @@ int main() {
     
     return 0;
 }
-```
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
@@ -73,11 +72,8 @@ int main() {
 
 
 ## output
-im/Screenshot at 2026-08-09 07-26-50.png
-im/Screenshot at 2026-08-09 07-27-33.png
-
-
-
+![Alt text](<img/output.png>)
+![Alt text](<img/Screenshot at 2026-08-09 07-42-47.png>)
 
 # RESULT:
 The programs are executed successfully.
